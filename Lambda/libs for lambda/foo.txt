@@ -1,1 +1,2 @@
-empty
+A venv.zip file is created using the tutorial provided in the following link
+https://github.com/ryansb/sklearn-build-lambda.git
